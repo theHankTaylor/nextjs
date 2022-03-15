@@ -17,7 +17,7 @@ export default function Home() {
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
-<img src="Hank_Lets_Go.gif">
+<img src="Hank_Lets_Go.gif" style="width:1080px;height:720px;">
         </p>
 
         <div className={styles.grid}>
