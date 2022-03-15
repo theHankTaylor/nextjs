@@ -8,7 +8,7 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-<img src="Hank_Lets_Go.gif">
+
       <main className={styles.main}>
         <h1 className={styles.title}>
           Let's go!
